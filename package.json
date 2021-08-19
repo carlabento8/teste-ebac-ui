@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/carlabento8/teste-ebac-ui#readme",
   "dependencies": {
-    "cypress": "^8.2.0"
+    "cypress": "^8.2.0",
+    "faker": "^5.5.3"
   }
 }
